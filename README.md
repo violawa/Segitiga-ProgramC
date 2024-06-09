@@ -2,7 +2,7 @@
 
 # Program Penghitung Luas Segitiga
 
-Program ini adalah contoh sederhana untuk menghitung luas segitiga menggunakan bahasa pemrograman C. Pengguna diminta untuk memasukkan nilai alas dan tinggi segitiga, dan program akan menghitung serta menampilkan luas segitiga berdasarkan input tersebut.
+Program ini adalah contoh sederhana untuk menghitung luas segitiga menggunakan bahasa pemrograman C. Pengguna diminta untuk memasukkan nilai alas dan tinggi segitiga, dan program akan menghitung serta menampilkan luas segitiga berdasarkan input data tersebut.
 
 ## Cara Menggunakan Program
 
